@@ -1,0 +1,33 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    margin-top: 5em;
+}
+
+
+.title{
+    text-align: center;
+    margin: 0 auto;
+    border: solid black;
+}
+
+.menu{
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-title{
+    margin: 0 auto;
+}
+
+.courseName{
+    border: solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.course{
+    border: solid black;
+    
+}
